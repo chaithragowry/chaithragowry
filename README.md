@@ -1,4 +1,4 @@
-
+<img src="https://github.com/chaithragowry/chaithragowry/blob/main/github-header-image.png" alt="logo" style="width:100%;">
 <h1 align="center">Hi 👋, I'm Chaithra S</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/05/Adv.-Python.gif">
